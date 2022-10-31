@@ -8,7 +8,7 @@ function Result() {
     return (
         <Container>
             <Row className='header'>
-                <Col className='name'>Website Name</Col>
+                <Col className='name'>Student Conseling</Col>
             </Row>
             <h2 className="resultHeading1">from our observation</h2>
             <p><Button className="selectedSbj">science subject</Button></p>

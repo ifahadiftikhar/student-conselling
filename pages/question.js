@@ -8,7 +8,7 @@ function Questions() {
     return (
         <Container>
             <Row className='header'>
-                <Col className='name'>Website Name</Col>
+                <Col className='name'>Student Conseling</Col>
             </Row>
             <Row className='sectionInfo'>
                 <Col className='questioninfo'>Questions: <span>1 of 20</span></Col>
